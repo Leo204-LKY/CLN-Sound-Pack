@@ -22,8 +22,8 @@
 ```
 
 注：
-+ 开头和`name`两处的声音类别和声音名可以不同，声音类别可以省略;
-+ 开头的内容不能使用除`.`以外的任何符号
++ `第一行引号`和`name`两处的声音类别和声音名可以不同，声音类别可以省略;
++ `第一行引号`不能使用除`.`以外的任何符号
 
 例：
 ``` json
@@ -47,4 +47,5 @@
 + 方括号为可选内容
 
 例如，上文“例”中的声音可使用这个命令播放：`/playsound minecraft:leo204lky.soundType.soundName @a`
+
 详见 Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "跳转到 Minecraft Wiki 上的相关内容")
