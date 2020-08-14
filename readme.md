@@ -44,9 +44,9 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
   + 可创建多个子分类，最多允许3个子分类，即整句句点（`.`）不能超过4个  
   + <details>
     <summary>展开举例</summary>
-    <code>leo204lky.personal.sound</code>符合要求  
-    <code>leo204lky.personal.house.secondfloor.sound</code>符合要求，但不能再创建子分类  
-    <code>leo204.lky.personal.house.secondfloor.bedroom.sound</code>不符合要求，因为子分类数为4（句点数为5），超出3个的限制
+    <code>leo204lky.personal.sound</code>符合要求  </br>
+    <code>leo204lky.personal.house.secondfloor.sound</code>符合要求，但不能再创建子分类  </br>
+    <code>leo204.lky.personal.house.secondfloor.bedroom.sound</code>不符合要求，因为子分类数为4（句点数为5），超出3个的限制  </br>
     </details>  
 + 仅允许使用句点(`.`)和**英文**  
   + 如果你的 Minecraft 用户名包含下划线或任何其他符号，请将这些符号省略  
