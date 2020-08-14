@@ -3,7 +3,7 @@
         "subtitle": "列车即将进站 开往：机场",
         "sounds":[
             {
-                "name":"railway/airport_line/station_to_airport",
+                "name":"railway/nclm/airport_line/station_to_airport",
                 "streaming": true
             }
         ]
