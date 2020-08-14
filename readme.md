@@ -2,20 +2,20 @@
 **音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。**  
 
 
-## 目录（点击可跳转）  
-0. [目录](##目录（点击可跳转） "点击前往。")  
-1. [目前的应用](##目前的应用  "点击前往。")  
-2. [音效包下载与安装](##音效包下载与安装 "点击前往。")  
-3. [申请添加音效](##申请添加音效 "点击前往。")  
-4. [在`/playsound`命令中使用](##在`/playsound`命令中使用 "点击前往。")  
+## 0. 目录  
+0. 目录
+1. 目前的应用
+2. 音效包下载与安装
+3. 申请添加音效
+4. 在`/playsound`命令中使用 
 
 
-## 目前的应用  
+## 1. 目前的应用  
 + NCLM 轨道交通  
   + 车站广播  
 
 
-## 音效包下载与安装  
+## 2. 音效包下载与安装  
 ### 下载  
 [点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases "点击将重定向至 Release 页面。")或点击右侧 `Release` 按钮前往 **Release** 页面获取最新版本。  
 _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列表中点击`NAHGN+Sound+Pack_版本号.zip`下载文件_  
@@ -25,7 +25,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 详见 Minecraft Wiki [教程/加载资源包](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E5%8A%A0%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8C%85 "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 
 
-## 申请添加音效  
+## 3. 申请添加音效  
 ### 上传前请仔细阅读  
 [点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
 ```
@@ -50,7 +50,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + 仅允许使用句点(`.`)和**英文**  
   + 如果你的 Minecraft 用户名包含下划线或任何其他符号，请将这些符号省略  
 + 这将用于`/playsound`命令  
-  + [点击这里](#### "点击前往。")了解`/playsound`命令和`定义`的作用  
+  + 向下滑动至**4.在`/playsound`命令中使用**了解使用方法
 
 #### 保存位置  
 + 按此格式在冒号后补全：`userid/filename`  
@@ -91,7 +91,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 [点击查看](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")样例 Issue。  
 
 
-## 在`/playsound`命令中使用  
+## 4. 在`/playsound`命令中使用  
 ### 详细了解`/playsound`命令： Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 `/playsound <声音> <来源> <玩家> [x] [y] [z] [音量] [音调] [最小音量]`  
 `<声音>`应填入上文`命令定义`填入的内容  
