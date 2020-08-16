@@ -1,9 +1,27 @@
 {
-    "railway.airportline.stationtoairport":{
-        "subtitle": "列车即将进站 开往：机场",
-        "sounds":[
+    "railway.nclm.universal.doorclosenotice": {
+        "subtitle": "车门即将关闭",
+        "sounds": [
             {
-                "name":"railway/nclm/airport_line/station_to_airport",
+               "name": "railway/nclm/universal/door_close_notice",
+               "streaming": true 
+            }
+        ]
+    },
+    "railway.nclm.lineairport.stationtoairport": {
+        "subtitle": "列车即将进站 开往：机场",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_airport/station_to_airport",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.stationtot1": {
+        "subtitle": "列车即将进站 开往：T1",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/station_to_t1",
                 "streaming": true
             }
         ]
