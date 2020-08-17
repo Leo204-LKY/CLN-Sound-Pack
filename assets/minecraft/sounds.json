@@ -1,15 +1,78 @@
 {
-    "railway.nclm.universal.doorclosenotice": {
-        "subtitle": "车门即将关闭",
+    "railway.nclm.line1.stationtoseashore": {
+        "subtitle": "列车即将进站 开往:海岸",
         "sounds": [
             {
-               "name": "railway/nclm/universal/door_close_notice",
-               "streaming": true 
+                "name": "railway/nclm/line_1/station_to_seashore",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.stationtot1": {
+        "subtitle": "列车即将进站 开往:T1",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/station_to_t1",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.trainnextbusinesscenter":{
+        "subtitle:": "下一站:商业中心",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/train_next_business_center",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.trainnextcentrallibrary":{
+        "subtitle": "下一站:中心图书馆",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/train_next_central_library",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.trainnextoldtowneast":{
+        "subtitle": "下一站:古城东",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/train_next_old_town_east",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.trainnextoldtownsouth":{
+        "subtitle": "下一站:古城南",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/train_next_old_town_south",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.trainnextseashore":{
+        "subtitle": "下一站:终点站海岸",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/train_next_seashore",
+                "streaming": true
+            }
+        ]
+    },
+    "railway.nclm.line1.trainnextt1":{
+        "subtitle": "下一站:终点站T1",
+        "sounds": [
+            {
+                "name": "railway/nclm/line_1/train_next_t1",
+                "streaming": true
             }
         ]
     },
     "railway.nclm.lineairport.stationtoairport": {
-        "subtitle": "列车即将进站 开往：机场",
+        "subtitle": "列车即将进站 开往:机场",
         "sounds": [
             {
                 "name": "railway/nclm/line_airport/station_to_airport",
@@ -17,12 +80,12 @@
             }
         ]
     },
-    "railway.nclm.line1.stationtot1": {
-        "subtitle": "列车即将进站 开往：T1",
+    "railway.nclm.universal.doorclosenotice": {
+        "subtitle": "车门即将关闭",
         "sounds": [
             {
-                "name": "railway/nclm/line_1/station_to_t1",
-                "streaming": true
+               "name": "railway/nclm/universal/door_close_notice",
+               "streaming": true 
             }
         ]
     }
