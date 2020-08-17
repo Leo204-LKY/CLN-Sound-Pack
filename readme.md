@@ -1,6 +1,7 @@
-# **如果你不知道什么是 _NCLM 和 HNR 群组网络_，那么此项目不是你需要的。**
+# **如果你不知道什么是 _NCLM 和 HNR 群组网络_，那么此项目不是你需要的。**  
 
 # **NCLM 和 HNR 群组网络** 音效包项目  
+![avatar](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/blob/master/pack.png)
 **音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。**  
 
 
