@@ -2,7 +2,7 @@
 ### 本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")  
 
 <center>
-<img src="https://i.postimg.cc/0NHX42tC/pack.png" width = "" height = "" alt="音效包图标" align=center />
+<img src="https://i.postimg.cc/0NHX42tC/pack.png" width = "50%" height = "50%" alt="音效包图标" align=center />
 </center>  
 
 # **NCLM 和 HNR 群组网络** 音效包项目  
