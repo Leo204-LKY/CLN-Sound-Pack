@@ -1,7 +1,11 @@
 # **如果你不知道什么是 _NCLM 和 HNR 群组网络_，那么此项目不是你需要的。**  
+### 本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")  
+
+<center>
+<img src="https://i.postimg.cc/0NHX42tC/pack.png" width = "" height = "" alt="音效包图标" align=center />
+</center>  
 
 # **NCLM 和 HNR 群组网络** 音效包项目  
-![avatar](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/blob/master/pack.png)
 **音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。**  
 
 
@@ -12,6 +16,7 @@
 2. [音效包下载与安装](#2-音效包下载与安装 "点击跳转。")  
 3. [申请添加音效](#3-申请添加音效)  
 4. [在`/playsound`命令中使用](#4-在playsound命令中使用 "点击跳转。")  
+5. [附录](#5-附录 "点击跳转。")
 
 
 ## 1. 目前的应用  
