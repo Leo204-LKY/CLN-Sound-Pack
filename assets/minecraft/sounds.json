@@ -17,7 +17,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextbusinesscenter":{
+    "railway.nclm.line1.trainnextbusinesscenter": {
         "subtitle:": "下一站:商业中心",
         "sounds": [
             {
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextcentrallibrary":{
+    "railway.nclm.line1.trainnextcentrallibrary": {
         "subtitle": "下一站:中心图书馆",
         "sounds": [
             {
@@ -35,7 +35,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextoldtowneast":{
+    "railway.nclm.line1.trainnextoldtowneast": {
         "subtitle": "下一站:古城东",
         "sounds": [
             {
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextoldtownsouth":{
+    "railway.nclm.line1.trainnextoldtownsouth": {
         "subtitle": "下一站:古城南",
         "sounds": [
             {
@@ -53,7 +53,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextseashore":{
+    "railway.nclm.line1.trainnextseashore": {
         "subtitle": "下一站:终点站海岸",
         "sounds": [
             {
@@ -62,7 +62,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextt1":{
+    "railway.nclm.line1.trainnextt1": {
         "subtitle": "下一站:终点站T1",
         "sounds": [
             {
