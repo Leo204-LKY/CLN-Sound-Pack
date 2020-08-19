@@ -86,7 +86,11 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + 方便有需要的玩家使用  
 
 #### 资源链接  
-+ 由于 GitHub 不支持上传音频文件，你需要将其上传至资源分享网站，然后提供下载链接  
++ **将音频文件压缩为`.zip`文件上传至附件即可。**  
+  + 可以通过拖放、复制粘贴进输入区，或点击输入区下方的`Attach files by dragging & dropping, selecting or pasting them.`上传文件。  
+  + 上传完成后，会在输入框插入链接。将链接保留在最后即可。  
++ _(这是最开始提供的方法。）_  
+  由于 GitHub 不支持上传音频文件，你需要将其上传至资源分享网站，然后提供下载链接  
   + 推荐：[百度网盘](https://pan.baidu.com "点击将重定向至百度网盘。")、[奶牛快传](https://cowtransfer.com "点击将重定向至奶牛快传。")  
   + 请注意，除[百度网盘](https://pan.baidu.com "点击将重定向至百度网盘。")、[奶牛快传](https://cowtransfer.com/ "点击将重定向至奶牛快传。")、[Apple iCloud](https://www.icloud.com/ "点击将重定向至 Apple iCloud。")和[Microsoft OneDrive](https://onedrive.live.com/ "点击将重定向至 Microsoft OneDrive。") 外，我不会在任何需要登录的网站下载文件  
 + 文件大小不能大于 512 KB  
