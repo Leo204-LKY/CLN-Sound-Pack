@@ -92,7 +92,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + _(这是最开始提供的方法。）_  
   由于 GitHub 不支持上传音频文件，你需要将其上传至资源分享网站，然后提供下载链接  
   + 推荐：[百度网盘](https://pan.baidu.com "点击将重定向至百度网盘。")、[奶牛快传](https://cowtransfer.com "点击将重定向至奶牛快传。")  
-  + 请注意，除[百度网盘](https://pan.baidu.com "点击将重定向至百度网盘。")、[奶牛快传](https://cowtransfer.com/ "点击将重定向至奶牛快传。")、[Apple iCloud](https://www.icloud.com/ "点击将重定向至 Apple iCloud。")和[Microsoft OneDrive](https://onedrive.live.com/ "点击将重定向至 Microsoft OneDrive。") 外，我不会在任何需要登录的网站下载文件  
+  + 请注意，除[百度网盘](https://pan.baidu.com "点击将重定向至百度网盘。")、[奶牛快传](https://cowtransfer.com/ "点击将重定向至奶牛快传。")、 [Apple iCloud](https://www.icloud.com/ "点击将重定向至 Apple iCloud。") 和 [Microsoft OneDrive](https://onedrive.live.com/ "点击将重定向至 Microsoft OneDrive。") 外，我不会在任何需要登录的网站下载文件  
 + 文件大小不能大于 512 KB  
   + 你可以在[这里](https://www.compresss.com/cn/compress-ogg.html "点击将重定向至Compress.com")压缩`.ogg`文件的大小  
   + 这不是强制性规定，我会视情况决定是否通过  
