@@ -1,10 +1,10 @@
-# **如果你不知道什么是 _NCLM 和 HNR 群组网络_，那么此项目不是你需要的。**  
-### 本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")  
+### This repository only supports Chinese. If you are not a **NCLM and HNR Group Network** member, it should not be what you need.  
+### 本项目仅支持中文。如果你不是 **NCLM 和 HNR 群组网络** 的成员，本项目不是你需要的。
   
-  
-![音效包图标](https://i.postimg.cc/sf8kHKBh/image.png)  
+![音效包图标](https://i.postimg.cc/Hsr58Qs4/Git-Hub.png)  
 # **NCLM 和 HNR 群组网络** 音效包项目  
-**音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。**  
+本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")。  
+音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。  
 
 
 ## 0. 目录
