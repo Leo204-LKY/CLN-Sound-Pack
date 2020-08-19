@@ -78,7 +78,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + `字幕功能` 指在游戏内 `选项…`->`辅助功能设置…`->`显示字幕` 功能为`开`后，游戏内的声音通过文字描述显示游戏窗口在右下角这一功能  
   + <details>
     <summary>详细了解</summary>
-    一个例子：  
+    一个例子：</br>
     <img src="https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/a/a8/Subtitles_Simplified.png" title="图片来自 Minecraft Wiki。" alt="游戏内显示的字幕。"></br>
     详见 Minecraft Wiki <a href="https://minecraft-zh.gamepedia.com/%E5%AD%97%E5%B9%95" title="点击将重定向至 Minecraft Wiki 上的相关页面。">字幕</a>
     </details>  
@@ -87,8 +87,8 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 
 #### 资源链接  
 + **将音频文件压缩为`.zip`文件上传至附件**  
-  + 可以通过拖放、复制粘贴进输入区，或点击输入区下方的`Attach files by dragging & dropping, selecting or pasting them.`上传文件。  
-  + 上传完成后，会在输入框插入链接。将链接保留在最后即可。  
+  + 可以通过拖放、复制粘贴进输入区，或点击输入区下方的`Attach files by dragging & dropping, selecting or pasting them.`上传文件
+  + 上传完成后，会在输入框插入链接，将链接保留在最后即可  
 + _(这是最开始提供的方法。）_  
   由于 GitHub 不支持上传音频文件，你需要将其上传至资源分享网站，然后提供下载链接  
   + 推荐：[百度网盘](https://pan.baidu.com "点击将重定向至百度网盘。")、[奶牛快传](https://cowtransfer.com "点击将重定向至奶牛快传。")  
