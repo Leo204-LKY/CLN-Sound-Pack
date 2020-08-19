@@ -24,7 +24,7 @@
 
 ## 2. 音效包下载与安装  
 ### 下载  
-[点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases "点击将重定向至 Release 页面。")或点击右侧 `Release` 按钮前往 **Release** 页面获取最新版本。  
+[点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases "点击将重定向至 Release 页面。")或点击右侧（移动端在本页底部） `Release` 按钮前往 **Release** 页面获取最新版本。  
 _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列表中点击`NAHGN+Sound+Pack_版本号.zip`下载文件_  
 ### 安装   
 有多种方法可以安装音效包。  
