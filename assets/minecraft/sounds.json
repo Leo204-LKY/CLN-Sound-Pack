@@ -1,4 +1,13 @@
 {
+    "nclmredtea.music.yousa.blackcat": {
+        "subtitle": "正在播放泠鸢yousa-黑猫",
+        "sounds": [
+            {
+                "name": "NCLMREDTEA/music/yousa/blackcat",
+                "streaming": true
+            }
+        ]
+    },
     "railway.nclm.line1.stationtoseashore": {
         "subtitle": "列车即将进站 开往:海岸",
         "sounds": [
