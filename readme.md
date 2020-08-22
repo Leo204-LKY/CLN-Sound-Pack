@@ -105,8 +105,8 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 ## 4. 在`/playsound`命令中使用  
 ### 详细了解`/playsound`命令： Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 `/playsound <声音> <来源> <玩家> [x] [y] [z] [音量] [音调] [最小音量]`  
-`<声音>`应填入上文`命令定义`填入的内容  
-+ 以[样例 Issue](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")为例，`<声音>`应填入`leo204lky.personal.sound`  
-  + 补全其他部分，例：`/playsound leo204lky.personal.sound master Leo204_LKY`  
+`<声音>`应在添加`player.`前缀后，填入上文`命令定义`填入的内容  
++ 以[样例 Issue](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")为例，`<声音>`应填入`player.leo204lky.personal.sound`  
+  + 补全其他部分，例：`/playsound player.leo204lky.personal.sound master Leo204_LKY`  
 + 中括号（`[ ]`）为可选内容  
 + 关于其它部分的使用方法，请查看 Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")    

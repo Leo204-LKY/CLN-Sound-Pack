@@ -1,9 +1,9 @@
 {
-    "nclmredtea.music.yousa.blackcat": {
+    "player.nclmredtea.music.yousa.blackcat": {
         "subtitle": "正在播放泠鸢yousa-黑猫",
         "sounds": [
             {
-                "name": "NCLMREDTEA/music/yousa/blackcat",
+                "name": "Player/NCLMREDTEA/music/yousa/blackcat",
                 "streaming": true
             }
         ]
