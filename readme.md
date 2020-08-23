@@ -1,5 +1,5 @@
 ### This repository only supports Chinese. If you are not a **NCLM and HNR Group Network** member, it should not be what you need. 本项目仅支持中文。如果你不是 **NCLM 和 HNR 群组网络** 的成员，本项目不是你需要的。  
-</br></br>
+</br>
 
 ![头图](https://i.postimg.cc/dt91dzgg/Git-Hub.png)  
 [![最新版本](https://img.shields.io/badge/最新版本-v.2035-green?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/stargazers)  
