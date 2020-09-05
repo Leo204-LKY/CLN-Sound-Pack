@@ -36,13 +36,26 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 ## 3. 申请添加音效  
 ### 上传前请仔细阅读  
 [点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
+请注意，一条 Issue 仅能申请一个音频。如需上传多个音频，请分别提交 Issue 申请。  
 ```
+声音类别：
+声音时长：
 命令定义：
 保存位置：
 字幕文字：
 文件链接：
 ```
 ### 内容说明  
+#### 声音类别  
++ 指定播放声音所属的类别，对应于游戏选项中“音乐和声音”设置的分类。  
+  + 该功能将为声音分类，方便玩家在游戏选项中控制不同类型声音的音量  
++ 必须为以下之一：`master`（主音量）、`music`（音乐）、`record`（唱片机/音符盒）、`weather`（天气）、`block`（方块）、`hostile`（地对生物）、`neutral`（友好生物）、`player`（玩家）、`ambient`（环境）或`voice`（声音/语音）。  
++ 经审核错误的声音类别将不予通过  
+  + 如果你认为自己的分类正确，可在 Issue 下申诉  
++ 游戏中通过`/playsound`命令播放音频时亦需要将申请时提供的类别填入`<来源>`
+  + 如管理员发现`/playsound`中的声音类别与申请时不同，将视情况进行处理  
+#### 声音时长
++ 填入申请上传的音频的时长（单位：秒）
 #### 命令定义  
 + 按此格式在冒号后补全：`userid.name`  
   + `userid`是你的 Minecraft 用户名  
@@ -105,8 +118,9 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 ## 4. 在`/playsound`命令中使用  
 ### 详细了解`/playsound`命令： Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 `/playsound <声音> <来源> <玩家> [x] [y] [z] [音量] [音调] [最小音量]`  
-`<声音>`应在添加`player.`前缀后，填入上文`命令定义`填入的内容  
-+ 以[样例 Issue](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")为例，`<声音>`应填入`player.leo204lky.personal.sound`  
-  + 补全其他部分，例：`/playsound player.leo204lky.personal.sound master Leo204_LKY`  
+1. `<声音>`应在添加`player.`前缀和时长后缀（`.xs`，其中`x`为时长[单位：秒]，`s`为固定内容）后，填入申请 Issue `命令定义`填入的内容  
+2. `<来源>`应填入申请 Issue `声音类别` 填入的内容  
++ 以[样例 Issue](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")为例，`<声音>`应填入`player.leo204lky.personal.sound.15s`  
+  + 补全其他部分，例：`/playsound player.leo204lky.personal.sound.15s master Leo204_LKY`  
 + 中括号（`[ ]`）为可选内容  
 + 关于其它部分的使用方法，请查看 Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")    
