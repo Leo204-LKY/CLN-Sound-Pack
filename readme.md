@@ -2,7 +2,7 @@
 </br>
 
 ![头图](https://i.postimg.cc/dt91dzgg/Git-Hub.png)  
-[![最新版本](https://img.shields.io/badge/最新版本-v._2035_Update_1-green?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/stargazers)  
+[![最新版本](https://img.shields.io/badge/最新版本-v._2036-green?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/stargazers)  
 本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")。  
 音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。  
 
