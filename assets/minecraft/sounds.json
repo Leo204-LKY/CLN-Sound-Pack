@@ -80,7 +80,7 @@
             }
         ]
     },
-    "railway.nclm.lineairport.stationtoairport": {
+    "railway.nclm.lineairport.stationtoairport.14s": {
         "subtitle": "列车即将进站 开往:机场",
         "sounds": [
             {
@@ -89,7 +89,7 @@
             }
         ]
     },
-    "railway.nclm.universal.doorclosenotice": {
+    "railway.nclm.universal.doorclosenotice.6s": {
         "subtitle": "车门即将关闭",
         "sounds": [
             {
