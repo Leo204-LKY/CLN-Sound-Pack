@@ -1,5 +1,5 @@
 {
-    "player.nclmredtea.music.yousa.blackcat": {
+    "player.nclmredtea.music.yousa.blackcat.296s": {
         "subtitle": "正在播放泠鸢yousa-黑猫",
         "sounds": [
             {
@@ -8,7 +8,7 @@
             }
         ]
     },
-    "railway.nclm.line1.stationtoseashore": {
+    "railway.nclm.line1.stationtoseashore.14s": {
         "subtitle": "列车即将进站 开往:海岸",
         "sounds": [
             {
@@ -17,7 +17,7 @@
             }
         ]
     },
-    "railway.nclm.line1.stationtot1": {
+    "railway.nclm.line1.stationtot1.13s": {
         "subtitle": "列车即将进站 开往:T1",
         "sounds": [
             {
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextbusinesscenter": {
+    "railway.nclm.line1.trainnextbusinesscenter.14s": {
         "subtitle:": "下一站:商业中心",
         "sounds": [
             {
@@ -35,7 +35,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextcentrallibrary": {
+    "railway.nclm.line1.trainnextcentrallibrary.15s": {
         "subtitle": "下一站:中心图书馆",
         "sounds": [
             {
@@ -44,7 +44,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextoldtowneast": {
+    "railway.nclm.line1.trainnextoldtowneast.14s": {
         "subtitle": "下一站:古城东",
         "sounds": [
             {
@@ -53,7 +53,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextoldtownsouth": {
+    "railway.nclm.line1.trainnextoldtownsouth.14s": {
         "subtitle": "下一站:古城南",
         "sounds": [
             {
@@ -62,7 +62,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextseashore": {
+    "railway.nclm.line1.trainnextseashore.20s": {
         "subtitle": "下一站:终点站海岸",
         "sounds": [
             {
@@ -71,7 +71,7 @@
             }
         ]
     },
-    "railway.nclm.line1.trainnextt1": {
+    "railway.nclm.line1.trainnextt1.20s": {
         "subtitle": "下一站:终点站T1",
         "sounds": [
             {
