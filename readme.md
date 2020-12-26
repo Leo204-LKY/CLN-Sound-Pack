@@ -13,7 +13,8 @@
 1. [目前的应用](#1-目前的应用 "点击跳转。")  
 2. [音效包下载与安装](#2-音效包下载与安装 "点击跳转。")  
 3. [申请添加音效](#3-申请添加音效)  
-4. [在`/playsound`命令中使用](#4-在playsound命令中使用 "点击跳转。")  
+4. [申请移除音效](#4-申请移除音效)
+5. [在`/playsound`命令中使用](#5-在playsound命令中使用 "点击跳转。")  
 
 
 ## 1. 目前的应用  
@@ -112,10 +113,41 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
   + 你可以在[这里](https://www.compresss.com/cn/compress-ogg.html "点击将重定向至Compress.com")压缩`.ogg`文件的大小  
 
 ### 例子  
-[点击查看](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")样例 Issue。  
+[点击查看](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/8 "点击将重定向至编号为8的例子 Issue。")样例 Issue。  
 
+## 4. 申请移除音效  
+[点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
+请注意，一条 Issue 仅能申请一个音频。如需移除多个音频，请分别提交 Issue 申请。  
+```
+命令定义：
+保存位置：
+移除原因：
+添加申请 Issue 编号：
+```
+### 内容说明
+#### 命令定义
++ 需要移除的音效对应的命令定义  
++ 需要与添加申请 Issue 中`命令定义`填入的内容一致  
++ 如果忘记了这是什么，请前往添加申请 Issue 查看  
+#### 保存位置  
++ 需要移除的音效对应`.ogg`文件的保存位置  
++ 需要与添加申请 Issue 中`命令定义`填入的内容一致  
++ 如果忘记了这是什么，请前往添加申请 Issue 查看  
+#### 移除原因
++ 提供移除音效的理由  
+  + 例：不再需要此音效  
+#### 添加申请 Issue 编号  
++ 以`#`开头  
++ 需要移除的音效对应的音效添加申请 Issue 的编号  
+  + 找到音效添加申请后，有以下几种方式查找编号  
+    + Issue 标题后方淡灰色、`#`开头的数字  
+    + 浏览器地址栏最后的数字  
++ 如果正确，发布 Issue 后文字会变为超链接(蓝色文字、可点击)，点击会跳转至添加申请 Issue  
 
-## 4. 在`/playsound`命令中使用  
+### 例子  
+[点击查看](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/10 "点击将重定向至编号为10的例子 Issue。")样例 Issue。  
+
+## 5. 在`/playsound`命令中使用  
 ### 详细了解`/playsound`命令： Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 `/playsound <声音> <来源> <玩家> [x] [y] [z] [音量] [音调] [最小音量]`  
 1. `<声音>`应在添加`player.`前缀和时长后缀（`.xs`，其中`x`为时长[单位：秒]，`s`为固定内容）后，填入申请 Issue `命令定义`填入的内容  
