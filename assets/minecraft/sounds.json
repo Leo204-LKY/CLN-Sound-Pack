@@ -1,13 +1,4 @@
 {
-    "player.leo204lky.music.makemelove.197s": {
-        "subtitle": "正在播放Make Me Love",
-        "sounds": [
-            {
-                "name": "Player/Leo204_LKY/Music/Make_Me_Love.ogg",
-                "streaming": true
-            }
-        ]
-    },
     "player.nclmredtea.music.yousa.blackcat.296s": {
         "subtitle": "正在播放泠鸢yousa-黑猫",
         "sounds": [
