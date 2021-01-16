@@ -4,7 +4,8 @@
         "sounds": [
             {
                 "name": "Player/NCLMREDTEA/music/yousa/blackcat",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -13,7 +14,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/station_to_seashore",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -22,7 +24,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/station_to_t1",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -31,7 +34,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/train_next_business_center",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -40,7 +44,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/train_next_central_library",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -49,7 +54,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/train_next_old_town_east",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -58,7 +64,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/train_next_old_town_south",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -67,7 +74,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/train_next_seashore",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -76,7 +84,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_1/train_next_t1",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -85,7 +94,8 @@
         "sounds": [
             {
                 "name": "railway/nclm/line_airport/station_to_airport",
-                "streaming": true
+                "streaming": true,
+                "attenuation_distance": true
             }
         ]
     },
@@ -94,7 +104,8 @@
         "sounds": [
             {
                "name": "railway/nclm/universal/door_close_notice",
-               "streaming": true 
+               "streaming": true ,
+               "attenuation_distance": true
             }
         ]
     }
