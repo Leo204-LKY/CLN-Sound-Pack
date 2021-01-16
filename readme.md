@@ -2,7 +2,7 @@
 </br>
 
 ![头图](https://i.postimg.cc/dt91dzgg/Git-Hub.png)  
-[![最新版本](https://img.shields.io/badge/最新版本-v._2052-green?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/stargazers)  
+[![最新版本](https://img.shields.io/badge/最新版本-v._2103-green?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/stargazers)  
 本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")。  
 音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。  
 
@@ -39,15 +39,16 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 [点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
 请注意，一条 Issue 仅能申请一个音频。如需上传多个音频，请分别提交 Issue 申请。  
 ```
-声音类别：
-声音时长：
-命令定义：
-保存位置：
+类别：
+时长：
+随距离减弱:是/否
+命名空间ID：
+保存目录：
 字幕文字：
 文件链接：
 ```
 ### 内容说明  
-#### 声音类别  
+#### 类别  
 + 指定播放声音所属的类别，对应于游戏选项中“音乐和声音”设置的分类。  
   + 该功能将为声音分类，方便玩家在游戏选项中控制不同类型声音的音量  
 + 必须为以下之一：`master`（主音量）、`music`（音乐）、`record`（唱片机/音符盒）、`weather`（天气）、`block`（方块）、`hostile`（地对生物）、`neutral`（友好生物）、`player`（玩家）、`ambient`（环境）或`voice`（声音/语音）。  
@@ -55,9 +56,11 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
   + 如果你认为自己的分类正确，可在 Issue 下申诉  
 + 游戏中通过`/playsound`命令播放音频时亦需要将申请时提供的类别填入`<来源>`
   + 如管理员发现`/playsound`中的声音类别与申请时不同，将视情况进行处理  
-#### 声音时长
+#### 时长
 + 填入申请上传的音频的时长（单位：秒）
-#### 命令定义  
+#### 命名空间ID
++ 这是 Minecraft Wiki 上对此类内容的非官方命名  
+  + 详见 Minecraft Wiki [命名空间ID](https://minecraft-zh.gamepedia.com/%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4ID "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 + 按此格式在冒号后补全：`userid.name`  
   + `userid`是你的 Minecraft 用户名  
   + `name`是自己对声音的描述（用于方便自己使用）  
@@ -74,7 +77,13 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + 这将用于`/playsound`命令  
   + 向下滑动至[4. 在`/playsound`命令中使用](#4-在playsound命令中使用 "点击跳转。")  了解使用方法
 
-#### 保存位置  
+#### 随距离减弱  
++ Minecraft Wiki中的描述是这样的：`基于距离的音效大小衰减率。`  
+  + 在原版游戏中应用于传送门、信标和潮涌核心。
++ 如果你需要玩家离开范围音效停止，请在冒号后输入`是`；反之请输入`否`  
+  + 推荐为`是`    
+
+#### 保存目录  
 + 按此格式在冒号后补全：`userid/filename`  
   + 与命令定义中的要求类似，但限制较少  
   + `userid`是你的 Minecraft 用户名  
@@ -88,7 +97,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + 可使用除`\`、`:`、`*`、`?`、`"`、`<`、`>`、`|`、` `（空格）以外的任何符号  
   + 但仍不建议使用
   + 空格（` `）请以下划线（`_`）代替
-+ 这将用于确定`.ogg`文件的存放位置  
++ 这将用于确定`.ogg`文件的存放在音效包`.zip`文件中的位置  
 
 #### 字幕文字  
 + `字幕功能` 指在游戏内 `选项…`->`辅助功能设置…`->`显示字幕` 功能为`开`后，游戏内的声音通过文字描述显示游戏窗口在右下角这一功能  
@@ -119,17 +128,17 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 [点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
 请注意，一条 Issue 仅能申请一个音频。如需移除多个音频，请分别提交 Issue 申请。  
 ```
-命令定义：
-保存位置：
+命名空间ID：
+保存目录：
 移除原因：
-添加申请 Issue 编号：
+添加申请的 Issue 编号：
 ```
 ### 内容说明
-#### 命令定义
+#### 命名空间ID
 + 需要移除的音效对应的命令定义  
 + 需要与添加申请 Issue 中`命令定义`填入的内容一致  
 + 如果忘记了这是什么，请前往添加申请 Issue 查看  
-#### 保存位置  
+#### 保存目录置  
 + 需要移除的音效对应`.ogg`文件的保存位置  
 + 需要与添加申请 Issue 中`命令定义`填入的内容一致  
 + 如果忘记了这是什么，请前往添加申请 Issue 查看  
@@ -137,7 +146,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + 提供移除音效的理由  
   + 例：不再需要此音效  
 + 不合理的理由将导致申请被拒绝  
-#### 添加申请 Issue 编号  
+#### 添加申请的 Issue 编号  
 + 以`#`开头  
 + 需要移除的音效对应的音效添加申请 Issue 的编号  
   + 找到音效添加申请后，有以下几种方式查找编号  
