@@ -1,4 +1,5 @@
-## 本项目目前已暂停更新。恢复时间待定。
+## 本项目目前暂停更新。恢复时间待定。  
+#### 你仍然可以在 [Issues](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/Issues) 申请上传/移除音效，但在恢复更新前这些申请不会被处理。
 
 ### This repository only supports Chinese. If you are not a **NCLM and HNR Group Network** member, it should not be what you need. 本项目仅支持中文。如果你不是 **NCLM 和 HNR 群组网络** 的成员，本项目不是你需要的。  
 </br>
