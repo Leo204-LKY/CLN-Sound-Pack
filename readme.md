@@ -1,3 +1,5 @@
+## 本项目目前已暂停更新。恢复时间待定。
+
 ### This repository only supports Chinese. If you are not a **NCLM and HNR Group Network** member, it should not be what you need. 本项目仅支持中文。如果你不是 **NCLM 和 HNR 群组网络** 的成员，本项目不是你需要的。  
 </br>
 
