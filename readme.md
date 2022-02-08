@@ -1,12 +1,12 @@
 ## 本项目目前暂停更新。恢复时间待定。  
-#### 你仍然可以在 [Issues](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) 申请上传/移除音效，但在恢复更新前这些申请不会被处理。
+#### 你仍然可以在 [Issues](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues) 申请上传/移除音效，但在恢复更新前这些申请不会被处理。
 
-### This repository only supports Chinese. If you are not a **NCLM and HNR Group Network** member, it should not be what you need. 本项目仅支持中文。如果你不是 **NCLM 和 HNR 群组网络** 的成员，本项目不是你需要的。  
+### This repository only supports Simplified Chinese. If you are not a **Chasing Light Network** member, it should not be what you need. 本项目仅支持简体中文。如果你不是 **光启网络** 的成员，本项目不是你需要的。  
 </br>
 
-![头图](https://i.postimg.cc/dt91dzgg/Git-Hub.png)  
-[![最新版本](https://img.shields.io/badge/最新版本-v._2103-green?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/NAHGN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/stargazers)  
-本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [NCLM and HNR Group Network（或 `NCLM 和 HNR 群组网络`，或`N.A.H.G.N.`）](https://github.com/nclmredtea/NAHGN "点击将跳转至 GitHub 上的 N.A.H.G.N. 项目主页。")。  
+## [头图暂时被撤下]  
+[![最新版本](https://img.shields.io/badge/最新版本-v._2207-green?style=for-the-badge)](https://github.com/Leo204-LKY/CLN-Sound-Pack/releases) [![GitHub issues](https://img.shields.io/github/issues/Leo204-LKY/CLN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues) [![GitHub stars](https://img.shields.io/github/stars/Leo204-LKY/CLN-Sound-Pack?style=for-the-badge)](https://github.com/Leo204-LKY/CLN-Sound-Pack/stargazers)  
+本项目隶属于由 [NCLMREDTEA](https://github.com/nclmredtea "点击将重定向至NCLMREADTEA的GitHub主页。") 建立的 [Chasing Light Network（或 `光启网络`，或 `CLN`）](https://github.com/nclmredtea/CLN "点击将跳转至 GitHub 上的 CLN 项目主页。")。  
 音效包中的音效可通过命令方块和`/playsound`命令用于服务器任何地方。  
 
 
@@ -21,16 +21,13 @@
 
 
 ## 1. 目前的应用  
-+ NCLM 轨道交通  
-  + 车站广播  
-  + 列车广播  
 + 玩家个性化使用
 
 
 ## 2. 音效包下载与安装  
 ### 下载  
-[点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/releases "点击将重定向至 Release 页面。")或点击右侧（移动端在本页底部） `Release` 按钮前往 **Release** 页面获取最新版本。  
-_点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列表中点击`NAHGN+Sound+Pack_版本号.zip`下载文件_  
+[点击这里](https://github.com/Leo204-LKY/CLN-Sound-Pack/releases "点击将重定向至 Release 页面。")或点击右侧（移动端在本页底部） `Release` 按钮前往 **Release** 页面获取最新版本。  
+_点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列表中点击`CLN+Sound+Pack_版本号.zip`下载文件_  
 ### 安装   
 有多种方法可以安装音效包。  
 与资源包（也被称为材质包）安装方式相同。  
@@ -39,7 +36,7 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 
 ## 3. 申请添加音效  
 ### 上传前请仔细阅读  
-[点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
+[点击这里](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
 请注意，一条 Issue 仅能申请一个音频。如需上传多个音频，请分别提交 Issue 申请。  
 ```
 类别：
@@ -125,10 +122,10 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
   + 你可以在[这里](https://www.compresss.com/cn/compress-ogg.html "点击将重定向至Compress.com")压缩`.ogg`文件的大小  
 
 ### 例子  
-[点击查看](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/8 "点击将重定向至编号为8的例子 Issue。")样例 Issue。  
+[点击查看](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues/8 "点击将重定向至编号为8的例子 Issue。")样例 Issue。  
 
 ## 4. 申请移除音效  
-[点击这里](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
+[点击这里](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues/new "点击将创建一个Issue。")或转到 **Issues** 标签，点击 **`New issue` 按钮**创建 Issue，复制以下内容，然后在`Leave a comment`输入框粘贴并补全。  
 请注意，一条 Issue 仅能申请一个音频。如需移除多个音频，请分别提交 Issue 申请。  
 ```
 命名空间ID：
@@ -158,14 +155,14 @@ _点击最新版本发布说明下方的`Assets` 按钮，然后在展开的列�
 + 如果正确，发布 Issue 后文字会变为超链接(蓝色文字、可点击)，点击会跳转至添加申请 Issue  
 
 ### 例子  
-[点击查看](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/10 "点击将重定向至编号为10的例子 Issue。")样例 Issue。  
+[点击查看](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues/10 "点击将重定向至编号为10的例子 Issue。")样例 Issue。  
 
 ## 5. 在`/playsound`命令中使用  
 ### 详细了解`/playsound`命令： Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")  
 `/playsound <声音> <来源> <玩家> [x] [y] [z] [音量] [音调] [最小音量]`  
 1. `<声音>`应在添加`player.`前缀和时长后缀（`.xs`，其中`x`为时长[单位：秒]，`s`为固定内容）后，填入申请 Issue `命令定义`填入的内容  
 2. `<来源>`应填入申请 Issue `声音类别` 填入的内容  
-+ 以[样例 Issue](https://github.com/Leo204-LKY/NAHGN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")为例，`<声音>`应填入`player.leo204lky.personal.sound.15s`  
++ 以[样例 Issue](https://github.com/Leo204-LKY/CLN-Sound-Pack/issues/1 "点击将重定向至编号为1的例子 Issue。")为例，`<声音>`应填入`player.leo204lky.personal.sound.15s`  
   + 补全其他部分，例：`/playsound player.leo204lky.personal.sound.15s master Leo204_LKY`  
 + 中括号（`[ ]`）为可选内容  
 + 关于其它部分的使用方法，请查看 Minecraft Wiki [命令/playsound](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4/playsound "点击将重定向至 Minecraft Wiki 上的相关页面。")    
